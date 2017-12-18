@@ -1,0 +1,11 @@
+C:\Users\maximeb\OneDrive\Programs\VisualStudio\TeamviewerRightClickTool\TeamviewerRightClickTool\bin\Debug\TeamviewerRightClickTool.exe.config
+C:\Users\maximeb\OneDrive\Programs\VisualStudio\TeamviewerRightClickTool\TeamviewerRightClickTool\bin\Debug\TeamviewerRightClickTool.exe
+C:\Users\maximeb\OneDrive\Programs\VisualStudio\TeamviewerRightClickTool\TeamviewerRightClickTool\bin\Debug\TeamviewerRightClickTool.pdb
+C:\Users\maximeb\OneDrive\Programs\VisualStudio\TeamviewerRightClickTool\TeamviewerRightClickTool\obj\Debug\TeamviewerRightClickTool.Properties.Resources.resources
+C:\Users\maximeb\OneDrive\Programs\VisualStudio\TeamviewerRightClickTool\TeamviewerRightClickTool\obj\Debug\TeamviewerRightClickTool.csproj.GenerateResource.Cache
+C:\Users\maximeb\OneDrive\Programs\VisualStudio\TeamviewerRightClickTool\TeamviewerRightClickTool\obj\Debug\TeamviewerRightClickTool.csproj.CoreCompileInputs.cache
+C:\Users\maximeb\OneDrive\Programs\VisualStudio\TeamviewerRightClickTool\TeamviewerRightClickTool\obj\Debug\TeamviewerRightClickTool.exe
+C:\Users\maximeb\OneDrive\Programs\VisualStudio\TeamviewerRightClickTool\TeamviewerRightClickTool\obj\Debug\TeamviewerRightClickTool.pdb
+C:\Users\maximeb\OneDrive\Programs\VisualStudio\TeamviewerRightClickTool\TeamviewerRightClickTool\obj\Debug\TeamviewerRightClickTool.MainForm.resources
+C:\Users\maximeb\OneDrive\Programs\VisualStudio\TeamviewerRightClickTool\TeamviewerRightClickTool\obj\Debug\TeamviewerRightClickTool.TeamViewerForm.resources
+C:\Users\maximeb\OneDrive\Programs\VisualStudio\TeamviewerRightClickTool\TeamviewerRightClickTool\obj\Debug\TeamviewerRightClickTool.csprojResolveAssemblyReference.cache
