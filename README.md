@@ -1,2 +1,2 @@
-# RealVNC_RightClickTool
-Doc Comming Soon, Msi installer also
+# TeamViewer SCCMRightClickTool
+Information from how and where to Put Action Files in 
